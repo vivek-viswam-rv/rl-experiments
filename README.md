@@ -1,6 +1,6 @@
 # CSE 546 - Reinforcement Learning - Final Project
 
-This project was to experiment solve Pong, Acrobot and Lunar Lander environments using the following RL algorithms:
+Solved Pong, Acrobot and LunarLander environments using the following RL algorithms:
 
 | Algorithm   |
 |-------------|
