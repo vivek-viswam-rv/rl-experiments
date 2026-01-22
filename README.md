@@ -1,6 +1,6 @@
-# Reinforcement Learning - Final Project
+# Reinforcement Learning
 
-Solved Pong, Acrobot and LunarLander environments using the following RL algorithms:
+This repository contains the Jupyter notebooks used to solve the **Pong, Acrobot and LunarLander** environments using the following Reinforcement Learning algorithms:
 
 | Algorithm   |
 |-------------|
